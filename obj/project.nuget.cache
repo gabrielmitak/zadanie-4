@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmFaJSm7zRkqILq/DkNitp6myiFI0r0lQvZKjyP3U6Vlg39IDN7DdubbrblHGmowp9PM1EOcRTtW2vkHzfGxRA==",
+  "success": true,
+  "projectFilePath": "C:\\praktyki\\zadanie4\\zadanie4\\zadanie4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mitak\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
